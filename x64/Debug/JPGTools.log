@@ -1,0 +1,5 @@
+﻿  TinyJpegEncoder.c
+  main.c
+F:\VS_Workspace\repos\JPGTools\main.c(49,31): warning C4101: “file_size”: 未引用的局部变量
+  正在生成代码...
+  JPGTools.vcxproj -> F:\VS_Workspace\repos\JPGTools\x64\Debug\JPGTools.exe
